@@ -3,7 +3,7 @@
 
 Este proyecto es una función en DigitalOcean que integra la API de Telegram con la API de SmartOLT. Permite enviar comandos desde Telegram para interactuar con SmartOLT y obtener o enviar datos.
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/asotonet/telegram-api/tree/main)
 
 ## Descripción
 
