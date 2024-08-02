@@ -1,9 +1,0 @@
-{
-    "name": "telegram-smartolt-integration",
-    "version": "1.0.0",
-    "main": "index.js",
-    "dependencies": {
-      "axios": "^0.21.1"
-    }
-  }
-  
